@@ -1,2 +1,1 @@
-# CatFactsAPI
-[https://annwanjiku.github.io/CatFactsAPI/](https://annwanjiku.github.io/CatFactsAPI/)
+**[cat_facts_api](https://annwanjiku.github.io/cat_facts_api/)**
